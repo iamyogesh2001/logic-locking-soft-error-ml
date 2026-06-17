@@ -135,7 +135,13 @@ Validation: **Leave-One-Circuit-Out cross-validation** (LOCO-CV).
 
 ---
 
-## Reproducing Results
+## Code and Data Availability
+
+All code, datasets, and figures are publicly available at:
+
+**https://github.com/iamyogesh2001/logic-locking-soft-error-ml**
+
+
 
 ### Requirements
 
@@ -207,6 +213,10 @@ python3 simulation/regenerate_figures.py
 
 ---
 
+## Submission Status
+
+This work has been submitted to the **33rd IEEE International Conference on Electronics, Circuits and Systems (ICECS 2026)**, Thessaloniki, Greece, November 8-11, 2026.
+
 ## Citation
 
 If you use this code or dataset in your research, please cite:
@@ -218,7 +228,10 @@ If you use this code or dataset in your research, please cite:
                VLSI Circuits},
   author    = {Rethinapandian, Yogesh and Sundararajan, Arun Karthik
                and Kumar, Kaushik and Prakash, Smrithi},
-  year      = {2026}
+  booktitle = {Proc. 33rd IEEE International Conference on Electronics,
+               Circuits and Systems (ICECS)},
+  year      = {2026},
+  url       = {https://github.com/iamyogesh2001/logic-locking-soft-error-ml}
 }
 ```
 
